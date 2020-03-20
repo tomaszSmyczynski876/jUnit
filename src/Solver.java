@@ -13,6 +13,9 @@ public class Solver {
 
     public double[] solve(){
         ArrayList<Double> results = new ArrayList();
+        if(a == 0) {
+            throw new IllegalArgumentException("To nie jest rownanie kwadratowe!!!");
+        }
 
         double delta = delta(a, b, c);
 

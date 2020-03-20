@@ -1,11 +1,14 @@
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.ExpectedException;
 
 import static org.junit.Assert.*;
 
 public class SolverTest {
 
+
     @Test
-    public void solve() {
+    public void shouldFindTwoResults() {
         Solver solver = new Solver(1, -7, 12);
         double[] result = solver.solve();
         assertEquals(2, result.length);

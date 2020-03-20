@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d0c03f-c1a5-433c-a4a3-afde0350bd91" name="Default Changelist" comment="" />
+    <list default="true" id="72d0c03f-c1a5-433c-a4a3-afde0350bd91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/CitCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/ComplicatedCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/CurrencyRoundServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/EasyCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/MatchersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/NegaticeCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/PasswordComplexityPolicyNegtiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/PositiveCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/RateConventerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/RateProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/SolverExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/SolverNoResultTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/SuiteClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Lab2/AssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CitCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Complicated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyRoundService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RateConventerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RateProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trivial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/SolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/SolverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TaxCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TaxCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/PasswordComplexityPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/PasswordComplexityPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/Solver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/Solver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Lab2/SolverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Lab2/SolverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Lab2/TaxCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Lab2/TaxCalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PasswordComplexityPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PasswordComplexityPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -17,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PasswordComplexityPolicy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
+            <state relative-caret-position="187">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -26,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/PasswordComplexityPolicyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
+            <state relative-caret-position="323">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,49 +72,98 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver.java">
+        <entry file="file://$PROJECT_DIR$/Test/PasswordComplexityPolicyNegtiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="20">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/SolverTest.java">
+        <entry file="file://$PROJECT_DIR$/src/RateProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="391">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/RateProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/PositiveCases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/TaxCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/CitCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RateConventerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/TaxCalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/Test/RateConventerServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TaxCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -88,37 +173,69 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/PasswordComplexityPolicyTest.java" />
-        <option value="$PROJECT_DIR$/src/PasswordComplexityPolicy.java" />
         <option value="$PROJECT_DIR$/Test/PasswordComplexityPolicyTest.java" />
-        <option value="$PROJECT_DIR$/src/Solver.java" />
-        <option value="$PROJECT_DIR$/Test/SolverTest.java" />
-        <option value="$PROJECT_DIR$/Test/TaxCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/TaxCalculator.java" />
+        <option value="$PROJECT_DIR$/Test/AssertTest.java" />
+        <option value="$PROJECT_DIR$/Test/MatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/CurrencyRoundService.java" />
+        <option value="$PROJECT_DIR$/Test/CurrencyRoundServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/Solver.java" />
+        <option value="$PROJECT_DIR$/Test/SolverNoResultTest.java" />
+        <option value="$PROJECT_DIR$/Test/PositiveCases.java" />
+        <option value="$PROJECT_DIR$/Test/SolverTest.java" />
+        <option value="$PROJECT_DIR$/Test/SolverExceptionTest.java" />
+        <option value="$PROJECT_DIR$/Test/NegaticeCases.java" />
+        <option value="$PROJECT_DIR$/Test/SuiteClasses.java" />
+        <option value="$PROJECT_DIR$/src/PitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/CitCalculator.java" />
+        <option value="$PROJECT_DIR$/Test/PitCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/Complicated.java" />
+        <option value="$PROJECT_DIR$/Test/ComplicatedCases.java" />
+        <option value="$PROJECT_DIR$/Test/EasyCases.java" />
+        <option value="$PROJECT_DIR$/Test/TaxCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/PasswordComplexityPolicy.java" />
+        <option value="$PROJECT_DIR$/Test/PasswordComplexityPolicyNegtiveTest.java" />
+        <option value="$PROJECT_DIR$/src/RateProvider.java" />
+        <option value="$PROJECT_DIR$/Test/RateProviderTest.java" />
+        <option value="$PROJECT_DIR$/Test/CitCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/CurrencyRateAnalizer.java" />
+        <option value="$PROJECT_DIR$/src/RateConventerService.java" />
+        <option value="$PROJECT_DIR$/Test/RateConventerServiceTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="-8" />
+    <option name="width" value="1539" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +257,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -148,9 +266,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -175,50 +295,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TaxCalculatorTest">
-    <configuration name="PasswordComplexityPolicyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RateProviderTest">
+    <configuration name="CitCalculatorTest.shouldCalculateCit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PasswordComplexityPolicyTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolverTest.solve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolverTest" />
-      <option name="METHOD_NAME" value="solve" />
+      <option name="MAIN_CLASS_NAME" value="CitCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldCalculateCit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolverTest.solve2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordComplexityPolicyNegtiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolverTest" />
-      <option name="METHOD_NAME" value="solve2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaxCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TaxCalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="PasswordComplexityPolicyNegtiveTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxCalculatorTest.ShouldBeTaxFree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TaxCalculatorTest" />
-      <option name="METHOD_NAME" value="ShouldBeTaxFree" />
+      <option name="MAIN_CLASS_NAME" value="PositiveCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RateProviderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateProviderTest.shouldReadRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RateProviderTest" />
+      <option name="METHOD_NAME" value="shouldReadRate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TaxCalculatorTest" />
-        <item itemvalue="JUnit.TaxCalculatorTest.ShouldBeTaxFree" />
-        <item itemvalue="JUnit.SolverTest.solve" />
-        <item itemvalue="JUnit.SolverTest.solve2" />
-        <item itemvalue="JUnit.PasswordComplexityPolicyTest" />
+        <item itemvalue="JUnit.RateProviderTest" />
+        <item itemvalue="JUnit.RateProviderTest.shouldReadRate" />
+        <item itemvalue="JUnit.PositiveCases" />
+        <item itemvalue="JUnit.PasswordComplexityPolicyNegtiveTest" />
+        <item itemvalue="JUnit.CitCalculatorTest.shouldCalculateCit" />
       </list>
     </recent_temporary>
   </component>
@@ -248,52 +367,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 44m 58s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="EasyCases - 2020.03.20 at 16h 07m 50s.xml">
+      <configuration name="EasyCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 48m 00s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="CitCalculatorTest_shouldBeZer0 - 2020.03.20 at 17h 04m 10s.xml">
+      <configuration name="CitCalculatorTest.shouldBeZer0" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 48m 52s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="CitCalculatorTest_shouldCalculateCit - 2020.03.20 at 17h 04m 31s.xml">
+      <configuration name="CitCalculatorTest.shouldCalculateCit" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 50m 43s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="CitCalculatorTest_shouldCalculateCit - 2020.03.20 at 17h 04m 43s.xml">
+      <configuration name="CitCalculatorTest.shouldCalculateCit" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 50m 56s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="PasswordComplexityPolicyNegtiveTest - 2020.03.20 at 17h 29m 03s.xml">
+      <configuration name="PasswordComplexityPolicyNegtiveTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 51m 39s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="PasswordComplexityPolicyNegtiveTest - 2020.03.20 at 17h 30m 17s.xml">
+      <configuration name="PasswordComplexityPolicyNegtiveTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 52m 15s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="PositiveCases - 2020.03.20 at 17h 40m 17s.xml">
+      <configuration name="PositiveCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 52m 43s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="RateProviderTest_shouldReadRate - 2020.03.20 at 17h 52m 03s.xml">
+      <configuration name="RateProviderTest.shouldReadRate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve2 - 2020.03.20 at 12h 52m 48s.xml">
-      <configuration name="SolverTest.solve2" configurationId="JUnit" />
+    <history-entry file="RateProviderTest - 2020.03.20 at 17h 52m 19s.xml">
+      <configuration name="RateProviderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolverTest_solve - 2020.03.20 at 12h 53m 16s.xml">
-      <configuration name="SolverTest.solve" configurationId="JUnit" />
+    <history-entry file="RateProviderTest - 2020.03.20 at 17h 57m 13s.xml">
+      <configuration name="RateProviderTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47375506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,49 +419,129 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32969153" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PasswordComplexityPolicy.java">
+    <entry file="file://$PROJECT_DIR$/Test/MatchersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/PasswordComplexityPolicyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="258">
+          <caret line="37" column="57" lean-forward="true" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/SolverTest.java">
+    <entry file="file://$PROJECT_DIR$/Test/AssertTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state relative-caret-position="457">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/CurrencyRoundServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/SolverExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/SolverNoResultTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NegaticeCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/SuiteClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trivial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Complicated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurrencyRoundService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -352,19 +550,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TaxCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ComplicatedCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="71" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/EasyCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/TaxCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state relative-caret-position="102">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PasswordComplexityPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/PositiveCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/SolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/PasswordComplexityPolicyNegtiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/PasswordComplexityPolicyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/RateProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RateProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/CitCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RateConventerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/RateConventerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -12,7 +12,11 @@ public class PasswordComplexityPolicy {
             }
         }
 
-        return (pwdLenght < MIN_LENGHT) || (digitCount < MIN_DIGITS) ? false : true;
+        if ((pwdLenght < MIN_LENGHT) || (digitCount < MIN_DIGITS)) {
+            throw new IllegalArgumentException();
+        }
+
+        return true;
     }
 
 
